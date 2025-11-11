@@ -1,0 +1,7 @@
+{
+  "name": "Competitor Monitoring Dashboard",
+  "description": "A SaaS dashboard to monitor competitors' social media activity, with an integrated Gemini-powered chatbot for insights and support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
